@@ -4,3 +4,5 @@ sign_model.pkl
 __pycache__/
 .venv/
 *.pyc
+.idea/
+.claude/
