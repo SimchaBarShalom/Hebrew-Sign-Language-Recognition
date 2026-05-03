@@ -1,0 +1,6 @@
+data/
+hand_landmarker.task
+sign_model.pkl
+__pycache__/
+.venv/
+*.pyc
